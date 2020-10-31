@@ -1,6 +1,6 @@
 ## Projects
 
-A curated list of projects that are considered as Native Decentralized Finance, meaning they use the native cryptocurrency of an open, public blockchain network to offer financial solutions accesible to everyone that do not require any centralised control.
+A curated list of projects that are considered as Native Decentralized Finance, meaning they use the native cryptocurrency of an open, public blockchain network to offer financial solutions, accesible to everyone, without the need of any centralised control.
 
 * [Bitcoin](www.bitcoin.org)
 * Lightning Network
