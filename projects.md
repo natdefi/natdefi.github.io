@@ -2,5 +2,6 @@
 
 A curated list of projects that are considered as Native Decentralized Finance, meaning they use the native cryptocurrency of an open, public blockchain network to offer financial solutions accesible to everyone that do not require any centralised control.
 
-* [Bitcoin](bitcoin.org) 
-* [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
+* [Bitcoin](www.bitcoin.org)
+* Lightning Network
+  * [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
